@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">ZlXFZP1sRxcfPFVpaJllTFYoVivk7f37091d-2045-4837-9c5d-79f81aae4ebc</string>
+    <string name="app_name">Veggies8to8</string>
+    <string name="facebook_app_id">1171386379671151</string>
+    <string name="fb_login_protocol_scheme">fb1171386379671151</string>
+</resources>

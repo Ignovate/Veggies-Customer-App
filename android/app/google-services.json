@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "387192146337",
+    "firebase_url": "https://eggies8to8.firebaseio.com",
+    "project_id": "eggies8to8",
+    "storage_bucket": "eggies8to8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387192146337:android:aa052b6820b33670",
+        "android_client_info": {
+          "package_name": "com.veggies8to8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387192146337-gbat041rmbd45lrujmdtr8lm1tm5tui2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "387192146337-lh266p3t1164d5igutsr1d0j6no31lv3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "387192146337-gbat041rmbd45lrujmdtr8lm1tm5tui2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUWDjV6WUiYZrQeV-imuZRmGIajrQ7Mp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
